@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KKXPT_Repo_VS26/KKXPT_Repo_VS26.vcxproj" />
+</Solution>
