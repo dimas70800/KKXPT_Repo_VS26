@@ -18,12 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="dima_6-5.cpp" />
-    <ClCompile Include="dima_7-2.cpp" />
-    <ClCompile Include="dima_9-1.cpp" />
-    <ClCompile Include="Hello_WorldDima.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
