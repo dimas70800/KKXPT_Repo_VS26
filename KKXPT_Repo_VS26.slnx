@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="KKXPT_Repo_VS26/KKXPT_Repo_VS26.vcxproj" Id="83babe47-83ed-42fa-9438-2573f3789947" />
+  <Project Path="../../../../../../Documents/GitHub/KKXPT_Repo_VS26/KKXPT_Repo_VS26/KKXPT_Repo_VS26.vcxproj" Id="83babe47-83ed-42fa-9438-2573f3789947" />
 </Solution>
